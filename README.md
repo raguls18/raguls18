@@ -67,11 +67,11 @@ const aboutMe = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[raguls18]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[raguls18]&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[raguls18]&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -81,7 +81,7 @@ const aboutMe = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=[raguls18]&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -89,7 +89,7 @@ const aboutMe = {
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[raguls18]&theme=tokyo-night&hide_border=true)](https://github.com/[raguls18])
 
 ---
 
@@ -97,8 +97,8 @@ const aboutMe = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME])
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME])
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[raguls18]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[raguls18]/[PROJECT_NAME])
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[raguls18]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[raguls18]/[PROJECT_NAME])
 
 </div>
 
@@ -108,10 +108,10 @@ const aboutMe = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[YOUR_PORTFOLIO])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-s-37a8b9271/])
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ragul-s-portfolio.vercel.app/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ragulviji20062@gmail.com])
 
 </div>
 
@@ -131,7 +131,7 @@ const aboutMe = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=[raguls18]&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -143,6 +143,6 @@ const aboutMe = {
 
 **⭐ Star my repositories if you find them useful!**
 
-Made with ❤️ and ☕ by [Your Name]
+Made with ❤️ and ☕ by [RAGUL S]
 
 </div>
