@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi there, I'm RAGUL S!
+# 👋 Hi there, I'm [Your Name]!
 
-### 🚀 Aspiring AI ENGINEERING | 💻 Tech Enthusiast | 🌍 KRISHNAGIRI
+### 🚀 Aspiring [Your Career Goal] | 💻 Tech Enthusiast | 🌍 [Your City, Country]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+coding;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -67,11 +67,11 @@ const aboutMe = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[raguls18]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=raguls18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raguls18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[raguls18]&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[raguls18]&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguls18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raguls18&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
 
 </div>
 
@@ -81,7 +81,7 @@ const aboutMe = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=[raguls18]&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -89,7 +89,7 @@ const aboutMe = {
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[raguls18]&theme=tokyo-night&hide_border=true)](https://github.com/[raguls18])
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME])
 
 ---
 
@@ -97,8 +97,8 @@ const aboutMe = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[raguls18]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[raguls18]/[PROJECT_NAME])
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[raguls18]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[raguls18]/[PROJECT_NAME])
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME])
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME])
 
 </div>
 
@@ -108,10 +108,10 @@ const aboutMe = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-s-37a8b9271/])
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ragul-s-portfolio.vercel.app/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ragulviji20062@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[YOUR_PORTFOLIO])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
 
 </div>
 
@@ -131,7 +131,7 @@ const aboutMe = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[raguls18]&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -143,6 +143,6 @@ const aboutMe = {
 
 **⭐ Star my repositories if you find them useful!**
 
-Made with ❤️ and ☕ by [RAGUL S]
+Made with ❤️ and ☕ by [Your Name]
 
 </div>
