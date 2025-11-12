@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Ragul S!
 
-### 🚀 Aspiring [Your Career Goal] | 💻 Tech Enthusiast | 🌍 [Your City, Country]
+### 🚀 Aspiring Software Developer | 💻 Tech Enthusiast | 🌍 India
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+coding;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -14,21 +14,21 @@
 
 ```javascript
 const aboutMe = {
-    location: "[Your City, Country]",
-    education: "[Your Field of Study]",
-    currentFocus: "[Your Focus Area]",
-    careerGoal: "[Your Career Goal]",
-    seekingOpportunities: "[Your Target Locations]",
-    interests: ["Coding", "Problem Solving", "Innovation"],
-    funFact: "I debug with console.log() 🐛"
+    username: "raguls18",
+    location: "India",
+    education: "Student",
+    currentFocus: "Full Stack Development",
+    interests: ["Web Development", "Problem Solving", "Open Source"],
+    email: "ragulviji20062@gmail.com",
+    funFact: "I turn coffee into code ☕"
 };
 ```
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Your Focus Area]**
+- 🔭 I'm currently working on **improving my coding skills**
+- 🌱 I'm currently learning **Web Development & DSA**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Technologies]**
-- ⚡ Fun fact: **[Add a fun fact about yourself]**
+- 💬 Ask me about **Python, Java, C++, JavaScript**
+- ⚡ Fun fact: **Debugging is like being a detective in a crime movie where you're also the murderer 🔍**
 
 ---
 
@@ -66,13 +66,16 @@ const aboutMe = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=raguls18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raguls18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguls18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raguls18&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
+<a href="https://github.com/raguls18">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raguls18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raguls18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raguls18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -80,16 +83,16 @@ const aboutMe = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&row=1&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=raguls18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME])
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raguls18&custom_title=Ragul's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
@@ -97,8 +100,13 @@ const aboutMe = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME])
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[PROJECT_NAME]&theme=tokyonight&hide_border=true)](https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME])
+> 🚀 Check out my pinned repositories below to see my best work!
+
+<!-- Replace REPO_NAME with your actual repository names -->
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raguls18&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/raguls18/REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raguls18&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/raguls18/REPO_NAME_2)
+-->
 
 </div>
 
@@ -108,16 +116,17 @@ const aboutMe = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[YOUR_PORTFOLIO])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragulviji20062@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raguls18)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raguls18)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raguls18.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raguls18)
 
 </div>
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Random Dev Quote
 
 <div align="center">
 
@@ -127,22 +136,24 @@ const aboutMe = {
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Views Counter
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet&style=for-the-badge)
-
+  <img src="https://komarev.com/ghpvc/?username=raguls18&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💭 "First, solve the problem. Then, write the code." – John Johnson
 
 **⭐ Star my repositories if you find them useful!**
 
-Made with ❤️ and ☕ by [Your Name]
+**📫 Feel free to reach out: ragulviji20062@gmail.com**
+
+Made with ❤️ and ☕ by Ragul S
+
+### Show some ❤️ by starring ⭐ some of my repositories!
 
 </div>
